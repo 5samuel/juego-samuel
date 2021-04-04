@@ -1,5 +1,9 @@
 ### *creacion de mi primer juego con la libreria turtle*
 ---
+### *El archivo funcional del juego es:*
+```
+juego.py
+```
 ```
 Este es el primer juego creado por mi, haciendo uso de la libreria turtle en python.
 ```
